@@ -8,3 +8,4 @@ GET /hello: returns a simple "Hello!" message in the response.
 The server listens on port 8080 by default and can be started with the go run main.go command. The log package is used for logging errors, and the fmt and net/http packages are used for handling I/O and HTTP requests/responses.
 
 Feel free to use this code as a starting point for your own Go web applications!
+Thank you
